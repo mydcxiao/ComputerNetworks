@@ -1,0 +1,40 @@
+Announcement:
+If you are having problem with installing VirtualBox & launch the VM.
+Please send me an email: gengyura@usc.edu
+
+The projects are still far away from now. ( ~ 3 weeks)
+No need to worry about it now.
+
+Today's topic:
+important UNIX/LINUX commands that will be used for our projects.
+basic of cpp, for the second and third discussion sessions.
+
+If you are familiar with cpp, e.g. taken a cpp class 
+feel free to leave, no mandatory attendence.
+
+1. Open VirtualBox, type & show the results.
+ls 
+cd 
+pwd
+echo 'test' > test.txt
+ls
+less ./test.txt
+(edit the file with GUI)
+cp ./test.txt ./test2.txt
+ls
+rm ./test.txt
+ls
+mv ./test2.txt ./test.txt
+gcc
+g++
+
+# check which process is using your network
+# you don't have to understand it completely right now.
+# but when you start working on your projects, you might use these commands
+sudo su
+lsof -i -P -n | grep LISTEN
+ss -tulpn | grep LISTEN
+lsof -i:22 ## see a specific port such as 22 ##
+kill -9 {your_process_id}
+
+2. go over the cpp example, to Simple I/O Example, page 34.
