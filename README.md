@@ -6,7 +6,7 @@
 | Name      | Type  | Content 
 | ------------- |:-------------:|:-------------:
 | [HW](HW)    | Homework | Theory & Calculation
-| [Lab 1&2](Lab1&Lab2) | Laboratory Assignment | WireShark & Packets Analysis
-| [Lab 3](Lab3)    | Laboratory Assignment | WireShark & Packets Analysis
+| [Lab1&2](Lab1&Lab2) | Laboratory Assignment | WireShark & Packets Analysis
+| [Lab3](Lab3)    | Laboratory Assignment | WireShark & Packets Analysis
 | [Lab5](Lab5)    | Laboratory Assignment | WireShark & Packets Analysis
 | [Project](Project) | Final Project | Socket Programming in C
