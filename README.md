@@ -10,4 +10,4 @@
 | [Lab3](Lab3)    | Laboratory Assignment | WireShark & Packets Analysis
 | [Lab4](Lab4)    | Laboratory Assignment | WireShark & Packets Analysis
 | [Lab5](Lab5)    | Laboratory Assignment | WireShark & Packets Analysis
-| [Project](Project) | Final Project | Socket Programming in C
+| [Project](Project) | Final Project | Web Registration Systems & Socket Programming in C/C++
